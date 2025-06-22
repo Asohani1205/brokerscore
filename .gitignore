@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environments
+venv/
+ENV/
+env/
+
+# SQLite database
+*.db
+
+# VSCode
+.vscode/
+
+# MacOS
+.DS_Store
+
+# Pytest
+.cache/
+
+# Jupyter
+.ipynb_checkpoints/ 
